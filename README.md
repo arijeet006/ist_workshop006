@@ -23,6 +23,8 @@ https://github.com/arijeet006/ist_workshop006/blob/6eb1eaefca0ca9eb9e013dedb52d7
 
 # 1.FASTQC TOOL
 FastQC is a tool used to check the quality of sequencing data before analysis. It evaluates key aspects like per-base sequence quality, GC content, sequence duplication, adapter contamination, and overrepresented sequences, helping ensure the data is clean and reliable for downstream analyses such as genome assembly or mutation detection.
+https://github.com/arijeet006/ist_workshop006/blob/b09d965094139cb522596a2243f928873aa814cc/536280521-b51d3368-dbef-4f83-97fa-273d96c9c3c9.png
+
 
 
 # 2.TRIM GALORE
