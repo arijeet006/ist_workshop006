@@ -2,7 +2,8 @@
 
 # NOTES REGARDING NGS WORKSHOP 
 REPORT ON 10 DAYS NGS WORKSHOP
-Author-Arijeet ball
+# Author-Arijeet ball
+Student of first year, b.tech biotechnology, Shoolini university
 
 # WHAT IS NGS ?
 Next-Generation Sequencing (NGS) is a high-throughput technology that sequences millions of DNA fragments simultaneously, accurately determining nucleotide sequences (A, T, C, G) faster and more cost-effectively than traditional Sanger sequencing.
@@ -16,6 +17,22 @@ Next-Generation Sequencing (NGS) determines the sequence of DNA through a series
 .Sequencing: Each fragment is sequenced in parallel using platforms that detect the incorporation of nucleotides (A, T, C, G) in real-time or through imaging methods.
 
 .Data Analysis: Advanced computational tools align the reads to a reference genome or assemble them de novo, producing a complete sequence and identifying variants, mutations, or other genomic features.
+
+# What is Galaxy software?
+Galaxy is a web-based, open-source bioinformatics platform that allows users to analyze biological data without needing programming or command-line skills. It provides a simple graphical interface where complex analyses can be performed by selecting tools and setting parameters through clicks instead of writing code.
+
+Galaxy is mainly used for NGS data analysis, including RNA-seq, variant analysis, and functional annotation. Users upload their data (such as FASTQ files), run different analysis tools step by step, and view the results in the same interface. Every step is automatically saved in a workspace called a history, which makes the analysis easy to reproduce and share.
+
+One of Galaxy’s biggest advantages is that it removes the need for software installation and dependency management, as all tools are already available on public servers. Because of this, Galaxy is widely used by students, researchers, and beginners to perform reliable and reproducible bioinformatics analyses efficiently.
+
+# What are the different sites for data base extraction ?
+There are several commonly used databases for biological data extraction, depending on what type of information you need. For gene and sequence data, the most widely used database is NCBI, which provides access to DNA, RNA, protein sequences, gene information, and genomes. Closely related to this are Ensembl, which focuses on genome annotation for many organisms, and UCSC Genome Browser, which is mainly used for genome visualization and annotation.
+
+For protein-related information, databases like UniProt are used to extract detailed protein sequences, functions, domains, and annotations. If you are interested in pathways and functional information, KEGG is commonly used to understand metabolic and signaling pathways, while Reactome provides curated biological pathway data with detailed molecular interactions.
+
+For gene expression and functional enrichment analysis, databases such as Gene Ontology (GO) are used to describe gene functions, biological processes, and cellular components. In addition, GEO (Gene Expression Omnibus) and ArrayExpress are popular databases for extracting publicly available RNA-seq and microarray datasets.
+
+In summary, NCBI, Ensembl, and UCSC are mainly used for sequence and genome extraction, UniProt for protein information, KEGG and Reactome for pathways, and GEO or ArrayExpress for expression datasets.
 
 All analyses were conducted using Galaxy, a robust, open-source, web-based platform tailored for data-intensive biomedical research. Raw mouse mammary RNA-Seq data in FASTQ format were retrieved from Zenodo https://zenodo.org/records/4249555. The four FASTQ files were uploaded to Galaxy, where they were processed and analyzed using a series of specialized bioinformatics tools to ensure accurate and reproducible results.
 https://github.com/arijeet006/ist_workshop006/blob/6eb1eaefca0ca9eb9e013dedb52d79574bb42fe8/536233173-39372ef4-d8f7-492a-8f1f-b536a73683a8.png
@@ -59,6 +76,7 @@ https://github.com/arijeet006/ist_workshop006/blob/966d4489c1fa1dc3f89be292b3942
 
 # 7.KYOTO ENCYCLOPEDIA OF GENES AND GENOME (KEGG)
 KEGG (Kyoto Encyclopedia of Genes and Genomes) is a bioinformatics resource used to interpret gene lists in the context of biological pathways. After completing DESeq2 analysis and generating a heatmap, you may have a list of significant genes. Instead of viewing them as isolated names (e.g., PFK1, HK2, LDHA), KEGG maps these genes onto pathways, illustrating how they interact and function together within biological systems.
+https://github.com/arijeet006/ist_workshop006/blob/98b136d1c901f4885bd21e6bbacea8d764250a8c/537704024-e8637b1b-06ae-43a7-be2f-d4cf78ff323f.png
 
 
 
