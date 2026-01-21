@@ -54,6 +54,7 @@ https://github.com/arijeet006/ist_workshop006/blob/5c52cb17f2de21976f1823aa7fb5b
 
 # 6.HEATMAP2
 heatmap.2 is a specialized R function from the gplots package, used to generate one of the most informative and visually appealing representations in RNA-Seq analysis: the heatmap. It allows for the visualization of gene expression patterns across samples, highlighting similarities, differences, and clusters in the data.
+https://github.com/arijeet006/ist_workshop006/blob/966d4489c1fa1dc3f89be292b3942c9d29583a7f/537577384-86a318cc-7cec-4cb7-8d29-b7532a6da93e.png
 
 
 # 7.KYOTO ENCYCLOPEDIA OF GENES AND GENOME (KEGG)
