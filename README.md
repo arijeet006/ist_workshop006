@@ -32,6 +32,7 @@ https://github.com/arijeet006/ist_workshop006/blob/d0a4e26eab16c3467920e3111b9ab
 # 2.TRIM GALORE
 Trim Galore is a Perl-based wrapper script widely used in bioinformatics to automate the quality control and trimming of high-throughput sequencing (NGS) data. It integrates the functionality of Cutadapt, which removes adapter sequences and low-quality bases from the reads, and FastQC, which performs post-trimming quality checks. By combining these tools into a single streamlined workflow, Trim Galore simplifies the preprocessing of NGS data and ensures that the resulting reads are clean, high-quality, and ready for downstream analyses.
 https://github.com/arijeet006/ist_workshop006/blob/73dba9fffa1281cbae93676af3b1ff89e73457eb/536813611-5053677d-69e9-49a0-b32c-aaca1d45c3e4.png
+https://github.com/arijeet006/ist_workshop006/blob/04822420bbc72c0ca3f991aefe8ce5a89c6ab75d/536815888-5e1ee64d-665f-429d-bcdd-7892e0edf142.png
 
 
 # 3.BOWTIE2
