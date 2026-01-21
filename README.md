@@ -5,7 +5,7 @@ REPORT ON 10 DAYS NGS WORKSHOP
 
 # WHAT IS NGS ?
 Next-Generation Sequencing (NGS) is a high-throughput technology that sequences millions of DNA fragments simultaneously, accurately determining nucleotide sequences (A, T, C, G) faster and more cost-effectively than traditional Sanger sequencing.
-![image alt]{https://github.com/arijeet006/ist_workshop006/blob/f9a7155d16f0a75a624d5a8742f2d7fd47c31f07/536233173-39372ef4-d8f7-492a-8f1f-b536a73683a8.png}
+https://github.com/arijeet006/ist_workshop006/blob/6eb1eaefca0ca9eb9e013dedb52d79574bb42fe8/536233173-39372ef4-d8f7-492a-8f1f-b536a73683a8.png
 
 # HOW NGS WORK:
 Next-Generation Sequencing (NGS) determines the sequence of DNA through a series of coordinated steps:
