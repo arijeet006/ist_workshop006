@@ -44,6 +44,7 @@ https://github.com/arijeet006/ist_workshop006/blob/5b364063499f51424ce4cebae000a
 
 # 4.FEATURECOUNTS
 FeatureCounts is a tool used for quantifying gene expression. After aligning your reads to the genome with Bowtie2, it counts how many reads map to each gene. This allows you to determine the expression levels of different genes, indicating which genes are highly active and which are less expressed.
+https://github.com/arijeet006/ist_workshop006/blob/b2ca8e8accda0ade9f6890ad2f76f9e33c5ec1e0/536866744-0ceb7d79-e4ff-400b-b4f2-dcd0914df77a.png
 
 
 # 5.DEseq2
