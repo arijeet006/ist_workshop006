@@ -25,6 +25,7 @@ https://github.com/arijeet006/ist_workshop006/blob/6eb1eaefca0ca9eb9e013dedb52d7
 FastQC is a tool used to check the quality of sequencing data before analysis. It evaluates key aspects like per-base sequence quality, GC content, sequence duplication, adapter contamination, and overrepresented sequences, helping ensure the data is clean and reliable for downstream analyses such as genome assembly or mutation detection.
 https://github.com/arijeet006/ist_workshop006/blob/b09d965094139cb522596a2243f928873aa814cc/536280521-b51d3368-dbef-4f83-97fa-273d96c9c3c9.png
 https://github.com/arijeet006/ist_workshop006/blob/95379e5a48635821ea964f655095a0086eb70c4e/536343367-6b37194e-b360-4c61-a24d-19810988ddfd.png
+https://github.com/arijeet006/ist_workshop006/blob/d0a4e26eab16c3467920e3111b9abdec7b3393f7/536349647-4fb5b494-71f5-4168-8023-20e28c1bdb57.png
 
 
 
