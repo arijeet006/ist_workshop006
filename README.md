@@ -1,11 +1,11 @@
 # ist_workshop006
 
 # NOTES REGARDING NGS WORKSHOP 
-REPORT ON 10 DAYS NGS WORKSHOP 
+REPORT ON 10 DAYS NGS WORKSHOP
+Author-Arijeet ball
 
 # WHAT IS NGS ?
 Next-Generation Sequencing (NGS) is a high-throughput technology that sequences millions of DNA fragments simultaneously, accurately determining nucleotide sequences (A, T, C, G) faster and more cost-effectively than traditional Sanger sequencing.
-https://github.com/arijeet006/ist_workshop006/blob/6eb1eaefca0ca9eb9e013dedb52d79574bb42fe8/536233173-39372ef4-d8f7-492a-8f1f-b536a73683a8.png
 
 # HOW NGS WORK:
 Next-Generation Sequencing (NGS) determines the sequence of DNA through a series of coordinated steps:
@@ -18,6 +18,7 @@ Next-Generation Sequencing (NGS) determines the sequence of DNA through a series
 .Data Analysis: Advanced computational tools align the reads to a reference genome or assemble them de novo, producing a complete sequence and identifying variants, mutations, or other genomic features.
 
 All analyses were conducted using Galaxy, a robust, open-source, web-based platform tailored for data-intensive biomedical research. Raw mouse mammary RNA-Seq data in FASTQ format were retrieved from Zenodo https://zenodo.org/records/4249555. The four FASTQ files were uploaded to Galaxy, where they were processed and analyzed using a series of specialized bioinformatics tools to ensure accurate and reproducible results.
+https://github.com/arijeet006/ist_workshop006/blob/6eb1eaefca0ca9eb9e013dedb52d79574bb42fe8/536233173-39372ef4-d8f7-492a-8f1f-b536a73683a8.png
 
 
 # 1.FASTQC TOOL
