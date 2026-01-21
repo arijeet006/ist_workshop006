@@ -38,6 +38,7 @@ https://github.com/arijeet006/ist_workshop006/blob/04822420bbc72c0ca3f991aefe8ce
 # 3.BOWTIE2
 After cleaning the sequencing data with Trim Galore, you are left with millions of short DNA fragments, or reads. The next step is to determine their exact origin within the genome, a process known as read alignment. Bowtie2 is a tool designed for this purpose, efficiently mapping each read to its corresponding location in the reference genome.
 https://github.com/arijeet006/ist_workshop006/blob/3e84968012ffeec6032693f94aa01cd7b3d50ed6/536839670-2910fa35-7822-4cc7-b3fa-76692e093dbc.png
+https://github.com/arijeet006/ist_workshop006/blob/5b364063499f51424ce4cebae000a35acc2375e9/536845657-be3c45ed-e4f1-435e-8994-185758556c98.png
 
 
 
