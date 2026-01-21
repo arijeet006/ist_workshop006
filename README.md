@@ -49,7 +49,7 @@ https://github.com/arijeet006/ist_workshop006/blob/b2ca8e8accda0ade9f6890ad2f76f
 
 # 5.DEseq2
 DESeq2 represents the final and most crucial step in the RNA-Seq analysis pipeline. It is used to perform Differential Gene Expression (DGE) analysis, identifying genes whose expression levels significantly differ between experimental conditions.
-
+https://github.com/arijeet006/ist_workshop006/blob/f81f713c797c32f933dcef6b4de20b02aed0877e/537448798-8b59986b-7f5e-478f-8b2a-4c0346ea38d0.png
 
 # 6.HEATMAP2
 heatmap.2 is a specialized R function from the gplots package, used to generate one of the most informative and visually appealing representations in RNA-Seq analysis: the heatmap. It allows for the visualization of gene expression patterns across samples, highlighting similarities, differences, and clusters in the data.
